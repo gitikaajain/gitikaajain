@@ -1,4 +1,5 @@
-(https://github.com/gitikaajain/gitikaajain/blob/main/assets/header.png)
+![](https://github.com/gitikaajain/gitikaajain/blob/main/assets/header.png)
+
 
 # 💫 About Me:
 🔭 Hello there, <br>I am a computer science student at Vellore institute of technology, Bhopal with a keen to have practical exposure to software development. <br>I am a quick learner and I love to explore new technologies. I am also passionate about solving problems, brainstorming and developing solutions.<br>
